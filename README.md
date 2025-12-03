@@ -1,4 +1,4 @@
-Cara Menggunakan Website CRUD Produk (Deskripsi Lengkap)
+Cara Menggunakan Website CRUD Produk 
 
 Website ini berfungsi untuk mengelola data produk seperti menambah, menampilkan, mengubah, dan menghapus produk. Semua data disimpan pada database melalui proses backend PHP.
 
